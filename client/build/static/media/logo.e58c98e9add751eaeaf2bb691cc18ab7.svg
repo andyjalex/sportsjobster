@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="345px" height="89px" viewBox="0 0 345 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo</title>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="345" height="89"></rect>
+        <g id="Group">
+            <rect id="Rectangle" fill="#FF2D2D" x="0" y="0" width="68" height="89.3932584" rx="8"></rect>
+            <text id="S" font-family="OpenSans-Bold, Open Sans" font-size="48" font-weight="bold" fill="#000000">
+                <tspan x="7" y="58">S</tspan>
+            </text>
+            <text id="J" font-family="OpenSans-Bold, Open Sans" font-size="48" font-weight="bold" fill="#FFFFFF">
+                <tspan x="41" y="58">J</tspan>
+            </text>
+        </g>
+        <text id="Sports" font-family="OpenSans-Bold, Open Sans" font-size="40" font-weight="bold" fill="#000000">
+            <tspan x="76" y="60">Sports</tspan>
+        </text>
+        <text id=".com" font-family="OpenSans-Bold, Open Sans" font-size="24" font-weight="bold" fill="#000000">
+            <tspan x="290" y="60">.com</tspan>
+        </text>
+        <text id="Jobs" font-family="OpenSans-Bold, Open Sans" font-size="40" font-weight="bold" fill="#FF2D2D">
+            <tspan x="205" y="60">Jobs</tspan>
+        </text>
+    </g>
+</svg>
